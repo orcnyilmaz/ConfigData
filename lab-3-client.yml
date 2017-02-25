@@ -1,5 +1,0 @@
-# lab-3-client.yml file
----
-spring:
-	config:
-	lucky-word: Irish
